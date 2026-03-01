@@ -427,7 +427,7 @@ body {
 
 /* ==================== SECTION ACCUEIL ==================== */
 .accueil-section {
-    background-image:linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url("Med-N'zo/IMG1.jpg") ;
+    background-image:linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url("IMG1.jpg") ;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
